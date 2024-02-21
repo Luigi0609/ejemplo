@@ -100,8 +100,8 @@ document.getElementById('siBtn').addEventListener('click', function() {
     document.getElementById('noBtn').style.display = 'none';
 
     // Mostrar el mensaje específico
-    document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = '¡No que no, <br> Feliz primer día de novios mi niña!';
+    //document.getElementById('messageContainer').style.display = 'block';
+    //document.getElementById('messageContainer').innerHTML = '¡No que no, <br> Feliz primer día de novios mi niña!';
     
    
 
